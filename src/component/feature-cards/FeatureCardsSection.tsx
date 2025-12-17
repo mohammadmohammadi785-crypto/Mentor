@@ -1,7 +1,6 @@
 import FeatureCard from "./FeatureCard";
 import {
   Eye,
-  Infinity,
   GraduationCap,
   Gem,
   Plane,
@@ -16,7 +15,6 @@ import {
 
 const features = [
   { icon: Eye, label: "Lorem Ipsum", color: "#ffbb2c" },
-  { icon: Infinity, label: "Dolor Sitema", color: "#0d6efd" },
   { icon: GraduationCap, label: "Sed perspiciatis", color: "#b20969" },
   { icon: Gem, label: "Magni Dolores", color: "#e361ff" },
   { icon: Plane, label: "Nemo Enim", color: "#47aeff" },
